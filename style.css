@@ -1,0 +1,38 @@
+.image-container {
+    background-image: url('./image/pexels-tirachard-kumtanom-112571-733857.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: fixed;
+    align-items: fixed;
+    justify-content: fixed;
+    color:black;
+}
+
+.beige {
+    background-color: #a39480;
+    color: #fff;
+}
+
+.red {
+    background-color: #d26464;
+    color: #000;
+}
+
+.green {
+    background-color: #428b4e;
+    color: #fff;
+}
+
+.task-container {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
